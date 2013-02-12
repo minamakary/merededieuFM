@@ -1,0 +1,20 @@
+﻿body {
+}
+
+#form1 {
+            height: 644px;
+            width: 1270px;
+}
+
+.title {
+    
+    font-size: x-large;
+    font-family: 'Bauhaus 93';
+    color: white;
+}
+
+.text {
+    font-size: large;
+    font-family: Arial;
+    color: white;
+}
